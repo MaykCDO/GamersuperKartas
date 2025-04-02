@@ -1,4 +1,4 @@
-# Documentação do Código - Jogo Super Trunfo
+# Documentação do Código - Jogo Super Karta
 
 ## Introdução
 
